@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.headone {
+    color: aqua;
+    background-color:white;
+}
+
+.headfive {
+    color: greenyellow;
+    background-color:white;
+}
+
+.paraone {
+    color: grey;
+    background-color:white;
+}
+.one{
+    background-color: white;
+    margin-bottom: 10px;
+    
+}
+.two{
+    color: white;
+    background-color: turquoise;
+    width: 50%;
+    height: 190px;
+    float: left;
+}
+.firstbutton {
+    color: white;
+    background-color: yellowgreen;
+    width: 150px;
+    
+}
+.third {
+    color: white;
+    background-color: aqua;
+    width: 50%;
+    float: right;
+}
